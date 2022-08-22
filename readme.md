@@ -12,7 +12,6 @@
 
 ---
 ---
->Project Link
+>Paytm clone using tailwind CSS 
 
-#  [Paytm clone using tailwind CSS](paytmcl-one.netlify.app)
-
+>### [Live Project Link Click Here ](https://project15-dance.netlify.app/)
