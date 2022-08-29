@@ -1,4 +1,4 @@
-#  **Hi, I'm Saurabh Mehare**
+# **Hi, I'm Saurabh Mehare.**
 
 ## Project Title
 
@@ -29,7 +29,7 @@
 
 
 
-# ![Time](https://img.shields.io/badge/Time%20Taken-36hrs-green).
+# ![Time](https://img.shields.io/badge/Time%20Taken-36hrs-green)
 
 ---
 ---
